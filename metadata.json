@@ -1,0 +1,8 @@
+{
+  "name": "Aethel Architecture & Spatial Design",
+  "description": "Award-winning architectural, spatial, and interior design practice crafting enduring environments across residential, cultural, and commercial domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
